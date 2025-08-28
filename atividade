@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Felipe Gabriel Loose</title>
+</head>
+<body>
+  <header>
+      <img src="perfil.jpg" alt="Foto de Felipe Gabriel Loose" width="150">
+    <h1>Felipe Gabriel Loose</h1>
+    <p><strong>Email:</strong> felipe@email.com | <strong>Telefone:</strong> (69) 99999-9999</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre mim</h2>
+      <p>Sou estudante de design e tecnologia, com interesse em gestão de projetos de TI e desenvolvimento de soluções criativas.</p>
+    </section>
+
+    <section>
+      <h2>Formação</h2>
+      <ul>
+        <li>Curso de Design Gráfico - Unesc (em andamento)</li>
+        <li>Formação complementar em Gestão de Projetos (em andamento)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Experiência</h2>
+      <ul>
+        <li>Criação de artes digitais para redes sociais</li>
+        <li>Projetos de design para eventos comunitários</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Habilidades</h2>
+      <ul>
+        <li>Design gráfico</li>
+        <li>HTML & CSS básico</li>
+        <li>Gestão de projetos</li>
+      </ul>
+    </section>
+  </main>
+
+</body>
+</html>
